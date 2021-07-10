@@ -1,0 +1,6 @@
+START
+LINE 5
+M1 P,Q,R
+M2 X,Y
+LINE 1
+END

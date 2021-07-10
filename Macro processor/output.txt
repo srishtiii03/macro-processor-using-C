@@ -1,0 +1,11 @@
+START
+LINE 5
+L 1,P
+A 1,Q
+ST 1,R
+L 1,X
+
+A 1,Y
+
+LINE 1
+END

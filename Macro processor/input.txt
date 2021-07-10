@@ -1,0 +1,18 @@
+START
+MACRO
+M1 &X ,&Y ,&Z
+L 1,&X
+A 1,&Y
+ST 1,&Z
+MEND
+MACRO
+M2 &X, &Y
+L 1,&X
+A 1,&Y
+MEND
+LINE 5
+M1 P,Q,R
+M2 X,Y
+LINE 1
+END
+
